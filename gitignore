@@ -1,0 +1,17 @@
+# WHMCS FutureX Theme .gitignore
+
+# PHP/WHMCS/Theme related
+/templates_c/
+/*.zip
+*.log
+.env
+
+# Editor & System files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# SCSS cache (if any)
+.sass-cache/
+.cache/
